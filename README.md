@@ -19,6 +19,7 @@
   * t-test 
   * posthoc pairwise comparisons
   * multiple-comparison correction
+- GLMs
 
 ## Technologies Used
 - R 
